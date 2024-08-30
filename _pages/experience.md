@@ -1,6 +1,6 @@
 ---
 permalink: /experience/
-title: #"Professional experience and education"
+title: "Professional experience"
 author_profile: true
 redirect_from: 
   - /md/
@@ -25,7 +25,7 @@ redirect_from:
       * Advisor: Prof. Hongjie Dong
       * Thesis: Elliptic boundary value problems on irregular domains
 
-### Fudan University**
+### Fudan University
   * BA in math, 2015
       * Advisor: Prof. Xiaoping Yuan
       * Thesis: Birkhoff normal forms in some PDEs
