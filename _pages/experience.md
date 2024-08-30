@@ -19,15 +19,12 @@ redirect_from:
   
 # Education
 
-### Brown University
-  * Ph.D. in Applied Math, 2020
+**Brown University**, Ph.D. in Applied Math, 2020.
       * Advisor: Prof. Hongjie Dong
 
-### Fudan University
-  * B.Sc. in Math, 2015
+**Fudan University**, B.Sc. in Math, 2015
 
-### University of Oxford
-  * Part C in Math, St. Hugh's College, 2013 - 14
+**University of Oxford**, Part C in Math, St. Hugh's College, 2013 - 14.
       * Dissertation supervisor: Prof. Gui-Qiang G. Chen and Dr. Wei Xiang
         
 # Long-term Visit
