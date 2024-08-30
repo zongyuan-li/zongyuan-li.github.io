@@ -23,18 +23,13 @@ redirect_from:
 ### Brown University
   * PhD in applied math, 2020
       * Advisor: Prof. Hongjie Dong
-      #* Thesis: Elliptic boundary value problems on irregular domains
 
 ### Fudan University
   * BA in math, 2015
-      #* Advisor: Prof. Xiaoping Yuan
-      #* Thesis: Birkhoff normal forms in some PDEs
 
 ### University of Oxford
   * Part C in Math, St. Hugh's College, 2013 - 14
       * Dissertation supervisor: Prof. Gui-Qiang G. Chen and Dr. Wei Xiang
-      #* Dissertation: Study of Keldysh equations and related PDEs
-      #* College tutor: Dr. Tom Sanders
         
 # Long-term Visit
   * Institute for Advanced Study (IAS)
