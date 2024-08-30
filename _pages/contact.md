@@ -7,11 +7,11 @@ redirect_from:
   - /contact.html
 ---
 
-# Email
+## Email
   zongyuan.li AT cityu.edu.hk
-# Office
+## Office
   YEUNG Y5128 (AC1, yellow zone)
-# Address
+## Address
 
 <address>
   City University of Hong Kong<br /> Tat Chee Avenue, Kowloon Tong<br /> Hong Kong
