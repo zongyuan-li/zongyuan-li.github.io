@@ -129,7 +129,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -281,32 +281,32 @@ defaults:
 
 
 # Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+# sass:
+#  sass_dir: _sass
+#   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
-permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# permalink: /:categories/:title/
+## paginate: 5 # amount of posts to show
+## paginate_path: /page:num/
+# timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
-# mimic GitHub Pages with --safe
+# plugins:
+#  - jekyll-paginate
+#  - jekyll-sitemap
+#  - jekyll-gist
+#  - jekyll-feed
+#  - jekyll-redirect-from
+## mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
+#  - jekyll-paginate
+#  - jekyll-sitemap
+#  - jekyll-gist
+#  - jekyll-feed
+#  - jemoji
 
 
 # Archives
