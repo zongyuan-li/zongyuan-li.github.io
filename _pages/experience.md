@@ -11,11 +11,11 @@ redirect_from:
   
   
 # Employment
-### City University of Hong Kong**
-  * Assistant Professor (Tenure-track), 2024 --
+### City University of Hong Kong
+  * Assistant Professor (Tenure-track), 2024 -
 
 ### Rutgers University
-  * Hill Assistant Professor (Non tenure-track), 2020 -- 2023
+  * Hill Assistant Professor (Non tenure-track), 2020 - 2023
       * Mentor: Prof. Yanyan Li
   
 # Education
@@ -31,7 +31,7 @@ redirect_from:
       * Thesis: Birkhoff normal forms in some PDEs
 
 ### University of Oxford
-  * Part C in Math, St. Hugh's College, 2013 -- 14
+  * Part C in Math, St. Hugh's College, 2013 - 14
       * Dissertation supervisor: Prof. Gui-Qiang G. Chen and Dr. Wei Xiang
       * Dissertation: Study of Keldysh equations and related PDEs
       * College tutor: Dr. Tom Sanders
@@ -42,4 +42,4 @@ redirect_from:
   * American Institute of Mathematics (AIM)
       * Apr 2024 (SQuaREs)
   * Binghamton University
-      * Aug 2023 -- Dec 2023
+      * Aug 2023 - Dec 2023
