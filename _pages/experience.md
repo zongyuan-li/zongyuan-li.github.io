@@ -21,11 +21,11 @@ redirect_from:
 # Education
 
 ### Brown University
-  * PhD in applied math, 2020
+  * Ph.D. in Applied Math, 2020
       * Advisor: Prof. Hongjie Dong
 
 ### Fudan University
-  * BA in math, 2015
+  * B.Sc. in Math, 2015
 
 ### University of Oxford
   * Part C in Math, St. Hugh's College, 2013 - 14
