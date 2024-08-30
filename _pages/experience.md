@@ -1,6 +1,6 @@
 ---
 permalink: /experience/
-title: "Professional experience"
+#title: "Professional experience"
 author_profile: true
 redirect_from: 
   - /md/
