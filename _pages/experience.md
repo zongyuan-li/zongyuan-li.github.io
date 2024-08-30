@@ -1,6 +1,6 @@
 ---
 permalink: /experience/
-#title: "Professional experience"
+title: "Employment"
 author_profile: true
 redirect_from: 
   - /md/
@@ -10,7 +10,6 @@ redirect_from:
   
   
   
-# Employment
 ### City University of Hong Kong
   * Assistant Professor (Tenure-track), 2024 -
 
