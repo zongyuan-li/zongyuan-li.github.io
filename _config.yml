@@ -21,7 +21,7 @@ url                      : https://zongyuan-li.github.io/ # the base hostname & 
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "1.png"
+  avatar           : "profile.png"
   name             : "Zongyuan Li"
   pronouns         : "he/him"  
 #  bio              : "Short biography for the left-hand sidebar"
