@@ -27,10 +27,10 @@ redirect_from:
               * Thesis: Birkhoff normal forms in some PDEs
       * University of Oxford
           * Part C in Math, St. Hugh's College, 2013 -- 14
-              * Dissertation: Study of Keldysh equations and related PDEs
               * Dissertation supervisor: Prof. Gui-Qiang G. Chen and Dr. Wei Xiang
+              * Dissertation: Study of Keldysh equations and related PDEs
               * College tutor: Dr. Tom Sanders
-  * Visiting
+  * Long-term Visit
       * Institute for Advanced Study (IAS)
           * Jun 2024 (summer collaboration)
       * American Institute of Mathematics (AIM)
