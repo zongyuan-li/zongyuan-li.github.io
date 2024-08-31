@@ -10,7 +10,7 @@ redirect_from:
   
   
   
-  * **MA 3512, Partial Differential Equations** (2024 Fall, City University of Hong Kong)
+  * **MA 3512, Partial Differential Equations** (2024 Fall, CityUHK)
       * Time: Tuesdays 3 -- 5:50 pm
       * Classroom: YEUNG G4302
       * Canvas site: (under construction)
