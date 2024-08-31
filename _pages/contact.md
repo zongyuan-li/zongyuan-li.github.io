@@ -14,5 +14,5 @@ redirect_from:
 ## Address
 
 <address>
-  City University of Hong Kong<br /> Tat Chee Avenue, Kowloon Tong<br /> Hong Kong
+  City University of Hong Kong<br /> 83 Tat Chee Avenue, Kowloon Tong<br /> Hong Kong
 </address>
