@@ -15,7 +15,7 @@ redirect_from:
 
 ### Rutgers University
   * Hill Assistant Professor (Non tenure-track), 2020 - 2023
-      * Mentor: Prof. Yanyan Li
+<!--      * Mentor: Prof. Yanyan Li-->
   
 # Education
 
