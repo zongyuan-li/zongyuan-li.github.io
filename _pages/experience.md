@@ -26,6 +26,7 @@ redirect_from:
 
 **University of Oxford**, Part C in Math, St. Hugh's College, 2013 - 14.
   * Dissertation supervisor: Prof. Gui-Qiang G. Chen and Dr. Wei Xiang
+  * College Tutor: Dr. Tom Sanders
         
 # Long-term Visit
   * Institute for Advanced Study (New Jersey, USA), Jun 2024
