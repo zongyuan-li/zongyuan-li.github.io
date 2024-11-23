@@ -15,7 +15,7 @@ redirect_from:
 
 ### Rutgers University
   * Hill Assistant Professor (Non tenure-track), 2020 - 2023
-<!--      * Mentor: Prof. Yanyan Li-->
+      * Mentor: Prof. Yanyan Li
   
 # Education
 
@@ -28,9 +28,9 @@ redirect_from:
   * Dissertation supervisor: Prof. Gui-Qiang G. Chen and Dr. Wei Xiang
         
 # Long-term Visit
-  * Institute for Advanced Study (IAS)
-      * Jun 2024 (summer collaboration)
-  * American Institute of Mathematics (AIM)
-      * Apr 2024 (SQuaREs)
-  * Binghamton University
-      * Aug 2023 - Dec 2023
+  * Institute for Advanced Study (IAS), Jun 2024
+<!--       * Jun 2024 (summer collaboration)-->
+  * American Institute of Mathematics (AIM), Apr 2024
+<!--      * Apr 2024 (SQuaREs)-->
+  * Binghamton University, Aug - Dec 2023
+<!--      * Aug 2023 - Dec 2023-->
