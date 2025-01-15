@@ -10,11 +10,9 @@ redirect_from:
   
   
   
-  * **MA 3512, Partial Differential Equations** (2024 Fall)
-      * Time: Tuesdays 3 -- 5:50 pm
-      * Classroom: YEUNG G4302
+  * **MA 3526, Analysis** (2025 Spring)
+      * Time: Tuesdays 9 -- 11:50 am
+      * Classroom: YEUNG B4302
       * Office hours:
-          * Mondays 3:30 -- 5:30 pm
+          * Tuesdays 3:30 -- 5:30 pm
           * YEUNG Y5128
-
- * **MA 3526, Analysis** (2025 Spring, Scheduled)
