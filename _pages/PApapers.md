@@ -19,9 +19,9 @@ redirect_from:
   9. Mixed boundary value problems for parabolic equations in Sobolev spaces with mixed-norms. (With J. Choi and H. Dong) ***Calc. Var. Partial Differential Equations.***, 62(1): Paper No. 5, 2023. [arxiv](https://arxiv.org/abs/2203.03321), [Journal](https://link.springer.com/article/10.1007/s00526-022-02327-z)
   10. The Dirichlet-conormal problem for the heat equation with inhomogeneous boundary conditions. (With H. Dong) ***Adv. Math.***, , 411: Paper No. 108777, 2022. [arxiv](https://arxiv.org/abs/2111.12076), [Journal](https://www.sciencedirect.com/science/article/pii/S0001870822005941?via%3Dihub)
   11. Asymptotics of harmonic functions in the absence of monotonicity formulas. In *Extended Abstracts, 2021/2022, Trends in Mathematics*, vol 3, pages 125 – 131. Birkhäuser, 2024. [arxiv](https://arxiv.org/abs/2305.00612), [Book Chapter](https://link.springer.com/chapter/10.1007/978-3-031-48579-4_13)
-  12. On the uniqueness of variable coefficient Schr\"odinger equations. (With S. Federico and X. Yu) To appear in ***Commun. Contemp. Math.*** [arxiv](https://arxiv.org/abs/2211.03740)
+  12. On the uniqueness of variable coefficient Schr\"odinger equations. (With S. Federico and X. Yu) ***Commun. Contemp. Math.***, 27(3), 2025. [arxiv](https://arxiv.org/abs/2211.03740), [Journal](https://www.worldscientific.com/doi/10.1142/S0219199724500160)
   13. Asymptotic expansions for harmonic functions at conical boundary points. (With D. Kriventsov) To appear in ***Rev. Mat. Iberoam.*** [arxiv](https://arxiv.org/abs/2307.10517)
-  14. Unique continuation on Robin problems with non-smooth potentials. To appear in ***J. Funct. Anal.*** [arxiv](https://arxiv.org/abs/2304.04342)
+  14. Unique continuation on Robin problems with non-smooth potentials. ***J. Funct. Anal.***, 288(6):Paper No. 110811, 2025. [arxiv](https://arxiv.org/abs/2304.04342), [Journal](https://www.sciencedirect.com/science/article/pii/S0022123624004993)
 
 
 
