@@ -8,17 +8,6 @@ redirect_from:
 ---
 
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-LENH8Z9DDM"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-LENH8Z9DDM');
-</script>
-
-
 I am an assistant professor at [Department of Math, City University of Hong Kong](https://www.cityu.edu.hk/ma/). My research interests focus on analysis and PDEs, particularly in the area of elliptic regularity theories.
 
 I received my Ph.D. from [Division of Applied Math, Brown University](https://appliedmath.brown.edu/) in 2020, and my B.Sc. from [Fudan University](https://math.fudan.edu.cn/mathen/join/list.htm) in 2015. Before joining CityUHK, I served as a Hill Assistant Professor at [Rutgers University](https://math.rutgers.edu/).
