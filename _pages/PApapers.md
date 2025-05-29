@@ -5,7 +5,7 @@ redirect_from:
   - /md/
   - /PApapers.html
 ---
-### Preprints
+# Preprints
 
   1. Asymptotic expansions for harmonic functions at conical boundary points. (With D. Kriventsov) To appear in ***Rev. Mat. Iberoam.*** [arxiv](https://arxiv.org/abs/2307.10517)
 
@@ -15,7 +15,7 @@ redirect_from:
 
   4. Liouville Theorem with Boundary Conditions from Chern-Gauss-Bonnet Formula. (With B.Z. Chu and Y.Y. Li) Submitted. [arxiv](https://arxiv.org/abs/2410.16384)
 
-### Papers
+# Papers
 
   1. Classical solutions of oblique derivative problem in nonsmooth domains with mean Dini coefficients. (With H. Dong) ***Trans. Amer. Math. Soc.***, 373(7) : 4975-4997, 2020. [arxiv](https://arxiv.org/abs/1904.02766), [Journal](https://www.ams.org/journals/tran/2020-373-07/S0002-9947-2020-08042-8/)
 
