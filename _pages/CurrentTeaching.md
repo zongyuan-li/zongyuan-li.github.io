@@ -12,9 +12,6 @@ redirect_from:
   
   * **MA 2185, Discrete Mathematics** (2025 Fall)
        * To be updated
-%      * Time: TBD
-%      * Classroom: TBD
-%      * Office hours: TBD
 
   * **MA 4545, Applied Differential Geometry** (2025 Fall)
       * To be updated
