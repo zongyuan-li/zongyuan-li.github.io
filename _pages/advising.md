@@ -9,10 +9,10 @@ redirect_from:
 
 I am looking for motivated PhD students interested in PDEs. My reearch focuses on elliptic regularity theories, currently mainly including
   * Fully nonlinear elliptic equations, especially those arising from conformal geometry and those are not uniformly elliptic.
-  * Linear elliptic equations with rough coefficients and boundaries.
+  * Linear elliptic equations with rough coefficients and/or non-smooth boundaries.
 
 Students with a solid background in analysis and a strong interest in PDEs are encouraged to apply.
 
-Prospective applicants are welcome -- and encouraged -- to contact me before submitting a formal application.
+Interested applicants are encouraged to reach out before submitting a formal application.
 
 *Last updated: May 2025*
