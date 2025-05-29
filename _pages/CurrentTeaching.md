@@ -10,9 +10,11 @@ redirect_from:
   
   
   
-  * **MA 3526, Analysis** (2025 Spring)
-      * Time: Tuesdays 9 -- 11:50 am
-      * Classroom: YEUNG B4302
-      * Office hours:
-          * Tuesdays 3:30 -- 5:30 pm
-          * YEUNG Y5128
+  * **MA 2185, Discrete Mathematics** (2025 Fall)
+       * To be updated
+%      * Time: TBD
+%      * Classroom: TBD
+%      * Office hours: TBD
+
+  * **MA 4545, Applied Differential Geometry** (2025 Fall)
+      * To be updated
