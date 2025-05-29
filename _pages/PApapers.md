@@ -1,6 +1,6 @@
 ---
 permalink: /PApapers/
-title: "Published/Accepted Papers"
+title: "Papers and Preprints"
 author_profile: true
 redirect_from: 
   - /md/
