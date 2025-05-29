@@ -1,11 +1,11 @@
 ---
 permalink: /PApapers/
+title: Preprints
 author_profile: true
 redirect_from: 
   - /md/
   - /PApapers.html
 ---
-# Preprints
 
   1. Asymptotic expansions for harmonic functions at conical boundary points. (With D. Kriventsov) To appear in ***Rev. Mat. Iberoam.*** [arxiv](https://arxiv.org/abs/2307.10517)
 
