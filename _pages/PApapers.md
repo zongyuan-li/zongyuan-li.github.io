@@ -7,8 +7,6 @@ redirect_from:
   - /PApapers.html
 ---
 
-  1. Asymptotic expansions for harmonic functions at conical boundary points. (With D. Kriventsov) To appear in ***Rev. Mat. Iberoam.*** [arxiv](https://arxiv.org/abs/2307.10517)
-
   2. Liouville theorems for conformally invariant fully nonlinear equations. I. (With B.Z. Chu and Y.Y. Li) Submitted. [arxiv](https://arxiv.org/abs/2311.07542)
 
   3. On the fully nonlinear Yamabe problem with constant boundary mean curvature. I. (With B.Z. Chu and Y.Y. Li) Submitted. [arxiv](https://arxiv.org/abs/2410.09683)
@@ -33,7 +31,7 @@ redirect_from:
 
   8. The Dirichlet-conormal problem for the heat equation with inhomogeneous boundary conditions. (With H. Dong) ***Adv. Math.***, , 411: Paper No. 108777, 2022. [arxiv](https://arxiv.org/abs/2111.12076), [Journal](https://www.sciencedirect.com/science/article/pii/S0001870822005941?via%3Dihub)
 
-  9. Quantitative unique continuation for Robin boundary value problems on C1,1 domains. (With W. Wang) ***Indiana Univ. Math. J.***, 72(4):1429--1460, 2023. [arxiv](https://arxiv.org/abs/2111.01766), [Journal](https://www.iumj.indiana.edu/oai/2023/72/9769/9769.xml)
+  9. Quantitative unique continuation for Robin boundary value problems on C1,1 domains. (With W. Wang) ***Indiana Univ. Math. J.***, 72(4):1429-1460, 2023. [arxiv](https://arxiv.org/abs/2111.01766), [Journal](https://www.iumj.indiana.edu/oai/2023/72/9769/9769.xml)
 
   10. Mixed boundary value problems for parabolic equations in Sobolev spaces with mixed-norms. (With J. Choi and H. Dong) ***Calc. Var. Partial Differential Equations.***, 62(1): Paper No. 5, 2023. [arxiv](https://arxiv.org/abs/2203.03321), [Journal](https://link.springer.com/article/10.1007/s00526-022-02327-z)
  
@@ -42,6 +40,8 @@ redirect_from:
   12. On the uniqueness of variable coefficient Schr\"odinger equations. (With S. Federico and X. Yu) ***Commun. Contemp. Math.***, 27(3), 2025. [arxiv](https://arxiv.org/abs/2211.03740), [Journal](https://www.worldscientific.com/doi/10.1142/S0219199724500160)
 
   13. Unique continuation on Robin problems with non-smooth potentials. ***J. Funct. Anal.***, 288(6):Paper No. 110811, 2025. [arxiv](https://arxiv.org/abs/2304.04342), [Journal](https://www.sciencedirect.com/science/article/pii/S0022123624004993)
+
+  14. Asymptotic expansions for harmonic functions at conical boundary points. (With D. Kriventsov) ***Rev. Mat. Iberoam.***, 41(3):  837–866, 2025. [arxiv](https://arxiv.org/abs/2307.10517), [Journal](https://ems.press/journals/rmi/articles/14298430))
 
 
 
