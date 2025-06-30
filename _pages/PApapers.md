@@ -7,11 +7,9 @@ redirect_from:
   - /PApapers.html
 ---
 
-  2. Liouville theorems for conformally invariant fully nonlinear equations. I. (With B.Z. Chu and Y.Y. Li) Submitted. [arxiv](https://arxiv.org/abs/2311.07542)
-
-  3. On the fully nonlinear Yamabe problem with constant boundary mean curvature. I. (With B.Z. Chu and Y.Y. Li) Submitted. [arxiv](https://arxiv.org/abs/2410.09683)
-
-  4. Liouville Theorem with Boundary Conditions from Chern-Gauss-Bonnet Formula. (With B.Z. Chu and Y.Y. Li) Submitted. [arxiv](https://arxiv.org/abs/2410.16384)
+  1. Liouville theorems for conformally invariant fully nonlinear equations. I. (With B.Z. Chu and Y.Y. Li) Submitted. [arxiv](https://arxiv.org/abs/2311.07542)
+  2. On the fully nonlinear Yamabe problem with constant boundary mean curvature. I. (With B.Z. Chu and Y.Y. Li) Submitted. [arxiv](https://arxiv.org/abs/2410.09683)
+  3. Liouville Theorem with Boundary Conditions from Chern-Gauss-Bonnet Formula. (With B.Z. Chu and Y.Y. Li) Submitted. [arxiv](https://arxiv.org/abs/2410.16384)
 
 # Papers
 
