@@ -39,7 +39,7 @@ redirect_from:
 
   13. Unique continuation on Robin problems with non-smooth potentials. ***J. Funct. Anal.***, 288(6):Paper No. 110811, 2025. [arxiv](https://arxiv.org/abs/2304.04342), [Journal](https://www.sciencedirect.com/science/article/pii/S0022123624004993)
 
-  14. Asymptotic expansions for harmonic functions at conical boundary points. (With D. Kriventsov) ***Rev. Mat. Iberoam.***, 41(3):  837–866, 2025. [arxiv](https://arxiv.org/abs/2307.10517), [Journal](https://ems.press/journals/rmi/articles/14298430))
+  14. Asymptotic expansions for harmonic functions at conical boundary points. (With D. Kriventsov) ***Rev. Mat. Iberoam.***, 41(3):  837–866, 2025. [arxiv](https://arxiv.org/abs/2307.10517), [Journal](https://ems.press/journals/rmi/articles/14298430)
 
 
 
