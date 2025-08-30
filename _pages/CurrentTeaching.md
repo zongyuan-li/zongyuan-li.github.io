@@ -10,8 +10,17 @@ redirect_from:
   
   
   
-  * **MA 2185, Discrete Mathematics** (2025 Fall)
-       * To be updated
+  * **MA 2185, Discrete Mathematics (Hong Kong)** (2025 Fall)
+       * Saturday, 9 -- 11:50 am
+       * YEUNG LT-13
+       * Office hours (tentative): Thursday 10:30 am -- 12:30 pm
 
-  * **MA 4545, Applied Differential Geometry** (2025 Fall)
-      * To be updated
+  * **MA 4545, Applied Differential Geometry (Hong Kong)** (2025 Fall)
+      * Thursdays, 3 -- 5:50 pm
+      * YEUNG G4302
+      * Office hours: See above
+        
+  * **MA 2185, Discrete Mathematics (Dongguan)** (2025 Fall)
+       * Saturday, 8:30 -- 11:20 am
+       * AC5-315
+       * Office hours: to be determined.
