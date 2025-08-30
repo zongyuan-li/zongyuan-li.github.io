@@ -16,7 +16,7 @@ redirect_from:
        * Office hours (tentative): Thursday 10:30 am -- 12:30 pm
 
   * **MA 4545, Applied Differential Geometry (Hong Kong)** (2025 Fall)
-      * Thursdays, 3 -- 5:50 pm
+      * Thursday, 3 -- 5:50 pm
       * YEUNG G4302
       * Office hours: See above
         
