@@ -31,7 +31,7 @@ redirect_from:
 # Long-term Visit
   * Institute for Advanced Study (New Jersey, USA), Jun 2024
 <!--       * Jun 2024 (summer collaboration)-->
-  * American Institute of Mathematics (California, USA), Apr 2024 and May 2025 (scheduled)
+  * American Institute of Mathematics (California, USA), Apr 2024, May 2025, Aug 2026 (scheduled)
 <!--      * Apr 2024 (SQuaREs)-->
   * Binghamton University (New York, USA), Aug - Dec 2023
 <!--      * Aug 2023 - Dec 2023-->
