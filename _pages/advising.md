@@ -15,4 +15,4 @@ Students with a solid background in analysis and a strong interest in PDEs are e
 
 Interested applicants are encouraged to reach out before submitting a formal application.
 
-*Last updated: May 2025*
+*Last updated: Feb 2026*
