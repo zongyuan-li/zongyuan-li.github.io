@@ -13,4 +13,4 @@ redirect_from:
   * **MA 3526, Analysis** (2026 Spring)
        * Tuesday, 9 -- 11:50 am
        * YEUNG B4302
-       * Office hours (tentatively): Tuesday, 1 -- 3 pm at Y5128
+       * Office hours (tentatively): Tuesday, 2 -- 4 pm at Y5128
