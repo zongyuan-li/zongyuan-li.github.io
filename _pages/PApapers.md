@@ -9,7 +9,6 @@ redirect_from:
 
   1. Liouville theorems for conformally invariant fully nonlinear equations. I. (With B.Z. Chu and Y.Y. Li) Submitted. [arxiv](https://arxiv.org/abs/2311.07542)
   2. On the fully nonlinear Yamabe problem with constant boundary mean curvature. I. (With B.Z. Chu and Y.Y. Li) Submitted. [arxiv](https://arxiv.org/abs/2410.09683)
-  3. Liouville Theorem with Boundary Conditions from Chern-Gauss-Bonnet Formula. (With B.Z. Chu and Y.Y. Li) Submitted. [arxiv](https://arxiv.org/abs/2410.16384)
 
 # Papers
 
@@ -40,6 +39,8 @@ redirect_from:
   13. Unique continuation on Robin problems with non-smooth potentials. ***J. Funct. Anal.***, 288(6):Paper No. 110811, 2025. [arxiv](https://arxiv.org/abs/2304.04342), [Journal](https://www.sciencedirect.com/science/article/pii/S0022123624004993)
 
   14. Asymptotic expansions for harmonic functions at conical boundary points. (With D. Kriventsov) ***Rev. Mat. Iberoam.***, 41(3):  837–866, 2025. [arxiv](https://arxiv.org/abs/2307.10517), [Journal](https://ems.press/journals/rmi/articles/14298430)
+
+  15. Liouville Theorem with Boundary Conditions from Chern-Gauss-Bonnet Formula. (With B.Z. Chu and Y.Y. Li) Accepted by ***Amer. J. Math.*** [arxiv](https://arxiv.org/abs/2410.16384)
 
 
 
