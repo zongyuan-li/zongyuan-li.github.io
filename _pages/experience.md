@@ -23,10 +23,11 @@ redirect_from:
   * Advisor: Prof. Hongjie Dong
 
 **Fudan University**, B.Sc. in Math, 2015
+  * Thesis advisor: Prof. Xiaoping Yuan
 
 **University of Oxford**, Part C in Math, 2013 - 14
   * Dissertation supervisor: Prof. Gui-Qiang G. Chen and Dr. Wei Xiang
-  * College Tutor: Dr. Tom Sanders at St. Hugh's College
+  * College tutor: Dr. Tom Sanders at St. Hugh's College
         
 # Long-term Visit
   * Institute for Advanced Study (New Jersey, USA), Jun 2024
