@@ -9,12 +9,15 @@ redirect_from:
   
   
   
+
+* **MA 4545, Applied Differential Geometry** (2026 Fall)
+  * Wednesday, 12 -- 2:50 pm
+  * YEUNG P4703
+  * Office hours: Wednesday, 3:30 -- 5:30 pm at Y5128
   
-  * **MA 3526, Analysis** (2026 Spring)
-       * Tuesday, 9 -- 11:50 am
-       * YEUNG B4302
-       * Office hours: Tuesday, 2 -- 4 pm at Y5128
-  * **MA 2185, Discrete Math for Computer Sciences** (2026 Fall)
+* **MA 2185, Discrete Math for Computer Sciences** (2026 Fall)
+  * Thursday, 4 -- 6:50 pm
+  * YEUNG LT-6
+  * Office hours: Same above.
     
-    **MA 4545, Applied Differential Geometry** (2026 Fall)
-      * Time and location to be determined
+
