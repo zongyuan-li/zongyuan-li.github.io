@@ -9,6 +9,7 @@ redirect_from:
 
   1. Liouville theorems for conformally invariant fully nonlinear equations. I. (With B.Z. Chu and Y.Y. Li) [arxiv](https://arxiv.org/abs/2311.07542)
   2. On the fully nonlinear Yamabe problem with constant boundary mean curvature. I. (With B.Z. Chu and Y.Y. Li) [arxiv](https://arxiv.org/abs/2410.09683)
+  3. On one-space dimensional parabolic equations with measurable coefficients: Sobolev estimates and the Alexandrov maximum principle. (With H. Dong) [arxiv](https://arxiv.org/abs/2609.25568)
 
 # Papers
 
